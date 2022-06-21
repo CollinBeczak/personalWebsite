@@ -1,0 +1,87 @@
+.home-container {
+  height: max-content;
+  width: 100%;
+  padding: 4em 0 4em 0;
+}
+
+.section1 {
+  margin: auto;
+}
+
+.profile {
+  margin-left: 2em;
+  text-align: center;
+  flex: 1;
+}
+
+.profilePicture {
+  width: 20em;
+  height: 20em;
+  align-items: center;
+  border: 1px solid;
+  border-radius: 50%;
+}
+
+.contactMe {
+  margin-top: 1em;
+  margin: auto;
+  text-align: center;
+
+  margin-top: 1em;
+}
+
+.information {
+  display: flex;
+  text-align: center;
+  margin: auto;
+}
+
+.summary-header {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 2.5em;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  line-height: 1.25;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+.summary {
+  font-family: sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
+  margin-bottom: 0.5rem;
+  line-height: 1.25;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+li {
+  list-style-position: inside;
+}
+
+.svg-info {
+  background-color: black;
+  border-radius: 30%;
+  padding: 0.5em;
+  margin: 0.1em;
+  width: 3em;
+  height: 3em;
+  margin-top: 2em;
+}
+
+.projectsContainer {
+  margin: auto;
+  align-items: center;
+  margin-top: 3em;
+  padding-top: 3em;
+}
+
+.projectsTitle {
+  text-align: center;
+}
+
+.projects {
+  margin: auto;
+}

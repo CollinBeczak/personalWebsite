@@ -1,0 +1,20 @@
+.contactContainer {
+  width: 10em;
+}
+.contactHeader {
+  flex: 1;
+  margin: 2em;
+  color: aquamarine;
+}
+
+.fields {
+  width: 50em;
+}
+
+.formContainer {
+  flex-direction: column;
+}
+
+.descriptionField {
+  width: 10em;
+}
